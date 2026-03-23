@@ -1,0 +1,19 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 165745296,
+    "separation": 8,
+    "spacing": 32,
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "trail_ruins"
+    }
+    
+  },
+  "structures": [
+    {
+      "structure": "orangesmp_pack:bunker",
+      "weight": 1
+    }
+  ]
+}

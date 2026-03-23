@@ -1,0 +1,15 @@
+{
+	"name": "orangesmp_pack:bunker/bunker",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "orangesmp_pack:bunker/bunker",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}
