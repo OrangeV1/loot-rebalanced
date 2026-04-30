@@ -1,0 +1,72 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "n",
+      "g",
+      "s"
+    ],
+    "key": {
+      "n": "minecraft:netherite_ingot",
+      "g": "minecraft:gilded_blackstone",
+      "s": "minecraft:stick"
+    },
+    "result": {
+      "id": "minecraft:netherite_sword",
+      "count": 1,
+      "components": {
+        "minecraft:attribute_modifiers": [
+          {
+            "type": "minecraft:attack_damage",
+            "operation": "add_value",
+            "amount": 6.0,
+            "id": "minecraft:1776564641949"
+          },
+          {
+            "type": "minecraft:entity_interaction_range",
+            "operation": "add_value",
+            "amount": -1.0,
+            "id": "minecraft:1776564641950"
+          },
+          {
+            "type": "minecraft:attack_speed",
+            "operation": "add_value",
+            "amount": 2.0,
+            "id": "minecraft:1776564641951"
+          }
+        ],
+        "minecraft:lore": [
+          "",
+          {
+            "text": "When in Main Hand:",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": " 6 Attack Damage",
+            "color": "dark_green",
+            "italic": false
+          },
+          {
+            "text": " 2 Attack Speed",
+            "color": "dark_green",
+            "italic": false
+          },
+          {
+            "text": " -1 Entity Reach",
+            "color": "dark_red",
+            "italic": false
+          }
+        ],
+        "minecraft:item_name": {
+          "text": "Netherite Dagger",
+          "italic": false
+        },
+        "minecraft:item_model": "mino:netherite_dagger",
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers"
+          ]
+        }
+      }
+    }
+  }

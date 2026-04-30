@@ -1,0 +1,80 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ODO",
+      "DAD",
+      " s "
+    ],
+    "key": {
+      "s": "minecraft:stick",
+      "D": "minecraft:diamond_block",
+      "O": "minecraft:deepslate_diamond_ore",
+      "A": "minecraft:diamond_axe"
+    },
+    "result": {
+      "id": "minecraft:diamond_axe",
+      "count": 1,
+      "components": {
+        "minecraft:attribute_modifiers": [
+          {
+            "type": "minecraft:attack_damage",
+            "operation": "add_value",
+            "amount": 11.0,
+            "id": "minecraft:1776564097972",
+            "slot": "mainhand"
+          },
+          {
+            "type": "minecraft:attack_speed",
+            "operation": "add_value",
+            "amount": -3.3,
+            "id": "minecraft:1776564097973",
+            "slot": "hand"
+          }
+        ],
+        "minecraft:lore": [
+          "",
+          {
+            "text": "When in Main Hand:",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": " 1",
+                "color": "dark_green",
+                "italic": false
+              },
+              {
+                "text": "1",
+                "color": "dark_green",
+                "italic": false
+              },
+              {
+                "text": " Attack Damage",
+                "color": "dark_green",
+                "italic": false
+              }
+            ]
+          },
+          {
+            "text": " 0.7 Attack Speed",
+            "color": "dark_green",
+            "italic": false
+          }
+        ],
+        "minecraft:item_name": {
+          "text": "Diamond War Axe",
+          "italic": false
+        },
+        "minecraft:item_model": "mino:diamond_waraxe",
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers"
+          ]
+        }
+      }
+    }
+  }
+  
