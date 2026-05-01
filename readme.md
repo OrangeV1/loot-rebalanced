@@ -1,6 +1,6 @@
 # Loot Rebalanced
 
-**A datapack made to rebalance loot tables, structures, crafting recipies, and tools**
+**A datapack made to rebalance loot tables, structures, crafting recipes, and tools**
 
 ##Contributers
 - OrangeV2 - Functions, structures & planning, project lead
@@ -9,3 +9,4 @@
 - Pancakecat1244 - Enchantments and playtesting
 - Red_Riddle - Playtesting
 - Myth - Playtesting & planning
+- mTxBeN - Custom weapon recipes
