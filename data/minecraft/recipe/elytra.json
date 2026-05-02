@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:phantom_membrane",
-    "P": "minecraft:vex_armor_trim_smithing_template",
+    "P": "minecraft:spire_armor_trim_smithing_template",
     "C": "quartz"
   },
   "pattern": [
