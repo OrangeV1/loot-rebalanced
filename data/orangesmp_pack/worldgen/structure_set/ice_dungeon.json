@@ -9,7 +9,7 @@
     "type": "minecraft:random_spread",
     "spacing": 15,
     "separation": 5,
-    "salt": 0,
+    "salt": 165745298,
     "exclusion_zone": {
       "other_set": "minecraft:igloos",
       "chunk_count": 5
